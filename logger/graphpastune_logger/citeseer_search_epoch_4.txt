@@ -1,0 +1,19 @@
+the best performance:	163.3575551933398	the top 10 avg performace:	145.8282279425669
+
+['const', 'max', '4', '64', 'linear', 'gat', 'max', '4', '16', 'relu'];130.85342164185255
+['generalized_linear', 'mean', '3', '256', 'tanh', 'cos', 'min', '4', '16', 'relu6'];113.54186096277124
+['const', 'max', '4', '256', 'relu6', 'const', 'min', '8', '16', 'elu'];112.63745442881623
+['const', 'max', '16', '32', 'relu6', 'gat_sym', 'sum', '1', '16', 'leaky_relu'];99.80327396291867
+['const', 'sum', '3', '256', 'relu6', 'gat', 'mlp', '8', '128', 'sigmoid'];43.90256558471801
+['gcn', 'min', '2', '16', 'sigmoid', 'linear', 'sum', '3', '8', 'leaky_relu'];23.110862104187824
+['const', 'min', '8', '8', 'softplus', 'gcn', 'sum', '3', '8', 'relu6'];19.290014374819897
+['gat_sym', 'min', '6', '64', 'leaky_relu', 'gat', 'mean', '3', '16', 'sigmoid'];7.315821625410557
+['cos', 'mean', '16', '32', 'softplus', 'linear', 'mlp', '4', '16', 'relu6'];2.3394042123626946
+['cos', 'mlp', '1', '8', 'tanh', 'gat', 'mlp', '2', '128', 'linear'];2.2636195582727225
+['const', 'max', '16', '64', 'linear', 'gat', 'max', '4', '16', 'relu'];162.73680628485704
+['const', 'max', '16', '64', 'linear', 'gat', 'max', '4', '16', 'tanh'];161.37407656012525
+['const', 'max', '4', '128', 'linear', 'gat', 'max', '4', '16', 'relu'];149.68611988613281
+['const', 'max', '4', '256', 'relu6', 'cos', 'min', '8', '16', 'elu'];138.87781695700338
+['const', 'max', '16', '64', 'linear', 'gat', 'max', '4', '16', 'leaky_relu'];163.3575551933398
+['const', 'max', '4', '256', 'linear', 'gat', 'max', '4', '16', 'relu'];162.28552151657948
+['const', 'max', '16', '64', 'relu6', 'gat', 'max', '4', '16', 'relu'];162.9316459941914
